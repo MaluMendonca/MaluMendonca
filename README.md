@@ -22,16 +22,9 @@
 
 #
 
-<h3 align="left">Most Used Languages</h3>
 
 <div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaluMendonca&layout=compact&title_color=ffbfef&text_color=ffffff&bg_color=0d1117&hide_border=true)
-
-</div>
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaluMendonca&layout=compact&theme=rose_pine&hide_border=true)
-
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaluMendonca/MaluMendonca/output/github-contribution-grid-snake-dark.svg">
