@@ -1,59 +1,37 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFBFEF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo(a)+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> </a> </div><img align="center" alt="" src="./src/header-gif.gif"><p align="center">Sou entusiasta da inteligência artificial, desenvolvimento web e design, sempre explorando novas formas de integrar tecnologia e criatividade. Atualmente, estou completando o ensino médio integrado ao técnico INFONET (Informática para internet). <img align="right" alt="" height="190px" src="./src/study.gif"><h3 align="left">Conecte-se comigo!</h3>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
-
-<p align="center">Sou entusiasta da inteligência artificial, desenvolvimento web e design, sempre explorando novas formas de integrar tecnologia e criatividade. Atualmente, estou completando o ensino médio integrado ao técnico INFONET (Informática para internet). 
-  
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luisamariamendonca@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luisa-mendonca-391664351/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFBFEF&color=FFBFEF)](mailto:luisamariamendonca@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFBFEF&color=FFBFEF)](https://www.linkedin.com/in/luisa-mendonca-391664351/)
 
 
 <h3 align="left">My Stack ~</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+<h3 align="left">My Stack</h3><div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" /> <img width="8" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaluMendonca&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<h3 align="left">GitHub Stats</h3>
 
-  <a href="https://github.com/MaluMendonca/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaluMendonca&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center">
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MaluMendonca&show_icons=true&title_color=ffbfef&icon_color=ffbfef&text_color=ffffff&bg_color=0d1117&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaluMendonca&theme=dark&background=0d1117&ring=ffbfef&fire=ffbfef&currStreakLabel=ffbfef&hide_border=true)
+
 </div>
 
-
 #
+
+<h3 align="left">Most Used Languages</h3>
+
+<div align="center">
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaluMendonca&layout=compact&title_color=ffbfef&text_color=ffffff&bg_color=0d1117&hide_border=true)
+
+</div>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaluMendonca&layout=compact&theme=rose_pine&hide_border=true)
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaluMendonca/MaluMendonca/output/github-contribution-grid-snake-dark.svg">
